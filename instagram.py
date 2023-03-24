@@ -1,8 +1,8 @@
 import json
-
+import requests
 
 def instadown(link):
-    import requests
+    
 
     url = "https://instagram-downloader-download-instagram-videos-stories.p.rapidapi.com/index"
 
